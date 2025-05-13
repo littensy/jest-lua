@@ -1,1 +1,1 @@
-return require("@pkg/@jsdotlua/jest-mock-rbx")
+return require('@pkg/@jsdotlua/jest-mock-rbx')
